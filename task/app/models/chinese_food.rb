@@ -1,0 +1,3 @@
+class ChineseFood < Food
+   
+end
